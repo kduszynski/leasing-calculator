@@ -2,7 +2,7 @@
   "name": "leasing-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kduszynski.github.io/tools",
+  "homepage": "https://kduszynski.github.io/leasing-calculator",
   "dependencies": {
     "@react-pdf/renderer": "^4.1.6",
     "react": "^18.2.0",
